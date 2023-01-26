@@ -2,7 +2,7 @@
 
 ## Description
 
-In this project, 
+In this project, I was able to build a functioning weather app with a user-friendly UI that accurately returns the weather based on what the user inputs in the search bar. The OpenWeather API was used to fetch the data for the app.
 
 ## Technologies 🛠
 
