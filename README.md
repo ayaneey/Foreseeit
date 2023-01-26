@@ -1,4 +1,4 @@
-# reactWeatherApp
+# Foreseeit Weather App
 
 ## Description
 
