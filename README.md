@@ -24,7 +24,7 @@ From this project, I was able to develop on my Javascript and CSS skills further
 
 <br>
 
-You can find the deployed app by clicking [HERE](https://ayaneey.github.io/CodeFlix/)
+You can find the deployed app by clicking [HERE](https://foreseeit.vercel.app/)
 
 ## GitHub
 
